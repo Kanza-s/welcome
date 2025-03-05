@@ -1,2 +1,2 @@
 # welcome
-Login and sign up front-end for interns.pk internship task.
+Developed Login and sign up front-end for task assigned by interns.pk in internship .
